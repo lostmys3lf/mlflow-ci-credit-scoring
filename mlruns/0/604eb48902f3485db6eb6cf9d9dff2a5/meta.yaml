@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlflow-ci-credit-scoring/mlflow-ci-credit-scoring/mlruns/0/604eb48902f3485db6eb6cf9d9dff2a5/artifacts
+end_time: 1792667511739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 604eb48902f3485db6eb6cf9d9dff2a5
+run_name: nebulous-bass-445
+run_uuid: 604eb48902f3485db6eb6cf9d9dff2a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792667405222
+status: 3
+tags: []
+user_id: runner
